@@ -1,0 +1,18 @@
+video Ad:
+use morphing for transition use graphic ( s1, s2 )
+video:  https://www.youtube.com/watch?v=DdKP5LFjR3k
+
+make a wheel animation use graphic ( s1 )
+video: https://www.youtube.com/watch?v=qB1tqqd6HPo
+
+make a carousel animation use graphic ( s2 )
+video: https://www.youtube.com/watch?v=_QLeH50wITQ
+
+make animation for last seen wheel , carousel and roller coaster animation and ballons and silkies use graphic ( s3 )
+
+make last finished scene and change word ( SMOOTH ) into ( Fun For Every one! ) from After Effect
+video: https://www.youtube.com/watch?v=531Ae7AWvKs
+
+
+Graphics:
+form s1 s2 s3 background.ai
